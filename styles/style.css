@@ -9,6 +9,11 @@ a {
 ul {
   list-style: none;
 }
+
+body{
+  background: gray;
+}
+
 .container {
   max-width: 1140px;
   width: 100%;
